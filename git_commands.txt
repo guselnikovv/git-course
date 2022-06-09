@@ -5,3 +5,5 @@ git commit -m "First commit" - add commit
 git merge readme - join branch readme
 git branch -M main - rename branch master
 git clone https://github.com/guselnikovv/git-course.git - clone repositories
+git push - upload to server
+git pull - download from the server
