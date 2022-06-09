@@ -4,3 +4,4 @@ git add . - add all track file
 git commit -m "First commit" - add commit
 git merge readme - join branch readme
 git branch -M main - rename branch master
+git clone https://github.com/guselnikovv/git-course.git - clone repositories
