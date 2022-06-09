@@ -2,3 +2,7 @@ Git Commands
 git add filename.txt - add track file
 git add . - add all track file
 git commit -m "First commit" - add commit
+git branch test - new branch "branch name"
+git branch -D branch name - delete branch
+git checkout branch name - switch branch
+git checkout -b name - new branch and switch to
