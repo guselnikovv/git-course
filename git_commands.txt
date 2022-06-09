@@ -1,0 +1,3 @@
+Git Commands
+git add filename.txt - add track file
+got add . - add all track file
